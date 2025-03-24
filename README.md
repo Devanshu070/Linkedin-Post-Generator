@@ -25,7 +25,7 @@ The **LinkedIn Post Generator** is an AI-powered tool that creates engaging Link
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Devanshu070/linkedin-post-generator.git
+   git clone https://github.com/Devanshu070/Linkedin-Post-Generator.git
    cd linkedin-post-generator
    ```
 2. **Install dependencies:**
