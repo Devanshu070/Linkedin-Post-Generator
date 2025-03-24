@@ -29,12 +29,14 @@ The **LinkedIn Post Generator** is an AI-powered tool that creates engaging Link
    cd linkedin-post-generator
    ```
 2. **Install dependencies:**
-   sh
+   ```sh
    pip install -r requirements.txt
-3. **Set up environment variables:**
+     ```
+4. **Set up environment variables:**
    Create a .env file and add your Groq API Key:
+    ```sh
    GROQ_API_KEY=your_api_key_here
-
+   ```
 ## Usage
 
 1. **Run the Streamlit app:**
@@ -44,3 +46,5 @@ The **LinkedIn Post Generator** is an AI-powered tool that creates engaging Link
 3. **Click "Generate" to get a LinkedIn post.**
 
 ## Example Output
+<img src="https://github.com/user-attachments/assets/1e7044f5-7094-4e3c-ae76-3475a711aa8d" alt="Screenshot" width="600"/>
+
